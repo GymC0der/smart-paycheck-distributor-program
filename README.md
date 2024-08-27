@@ -4,7 +4,8 @@ Here's a README file for your Solidity Payroll smart contract project:
 ---
 
 # Payroll Smart Contract
-![Uploading Screenshot (7).png…]()
+
+![Screenshot (7)](https://github.com/user-attachments/assets/9ad48bb9-b41b-42aa-a39c-4b4ee6d34991)
 
 
 ## Vision
