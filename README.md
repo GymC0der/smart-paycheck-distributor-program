@@ -42,7 +42,7 @@ Owner (Employer)
 The smart contract is deployed on the Ethereum network at the following address:
 
 ```
-<Replace_with_Contract_Address>
+0x78e15ff661c3e081406d95c977905445e36329d8
 ```
 
 ## Future Scope
