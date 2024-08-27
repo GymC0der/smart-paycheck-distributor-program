@@ -4,6 +4,8 @@ Here's a README file for your Solidity Payroll smart contract project:
 ---
 
 # Payroll Smart Contract
+![Uploading Screenshot (7).png…]()
+
 
 ## Vision
 The Payroll Smart Contract is designed to automate monthly salary payments for office workers. This contract ensures transparency, accuracy, and efficiency by leveraging the Ethereum blockchain, making salary disbursement processes trustless and decentralized.
