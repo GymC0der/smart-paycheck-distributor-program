@@ -57,6 +57,14 @@ The smart contract is deployed on the Ethereum network at the following address:
 - **Multi-Owner Support:** Extend the contract to allow multiple owners (e.g., HR and Finance departments) to manage workers and funds collaboratively.
 - **UI/UX Interface:** Develop a user-friendly web interface for employers to manage workers, view payment history, and monitor contract balances.
 
+- Contact Details
+
+For inquiries, contributions, or support, please contact:
+
+    Name: [Roshan Sinha]
+    Email: [roshanff.op@gmail.com]
+    GitHub: https://github.com/
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
