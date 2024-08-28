@@ -47,6 +47,7 @@ The smart contract is deployed on the Ethereum network at the following address:
 ```
 0x78e15ff661c3e081406d95c977905445e36329d8
 ```
+<img width="833" alt="image" src="https://github.com/user-attachments/assets/18ee9114-bea4-4538-9de5-9d8ca1532c00">
 
 ## Future Scope
 - **Integration with ERC20 Tokens:** Expand the contract to support payments in ERC20 tokens, allowing employers to pay workers in stablecoins or other cryptocurrencies.
